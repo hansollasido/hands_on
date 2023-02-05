@@ -3,9 +3,13 @@
 - 머신러닝 관련 세부 내용을 학습하였습니다.
 
 **Chap 1 한눈에 보는 머신러닝**
+
 **Chap 2 머신러닝 프로젝트 처음부터 끝까지**
+
 **Chap 3 분류**
+
 **Chap 4 모델 훈련**
+
 
 ![image](https://user-images.githubusercontent.com/101409953/212378101-160e78d6-78c9-45b9-b6df-49401e496765.png)
 
