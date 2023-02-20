@@ -10,6 +10,10 @@
 
 **Chap 4 모델 훈련**
 
+**Chap 5 서포트 벡터 머신(SVM)**
+
+**
+
 
 ![image](https://user-images.githubusercontent.com/101409953/212378101-160e78d6-78c9-45b9-b6df-49401e496765.png)
 
