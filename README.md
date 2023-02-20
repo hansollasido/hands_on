@@ -12,7 +12,9 @@
 
 **Chap 5 서포트 벡터 머신(SVM)**
 
-**
+**Chap 6 결정트리**
+
+**Chap 7 앙상블**
 
 
 ![image](https://user-images.githubusercontent.com/101409953/212378101-160e78d6-78c9-45b9-b6df-49401e496765.png)
