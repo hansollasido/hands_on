@@ -16,6 +16,10 @@
 
 **Chap 7 앙상블**
 
+**Chap 8 차원축소**
+
+**Chap 9 비지도 학습**
+
 
 ![image](https://user-images.githubusercontent.com/101409953/212378101-160e78d6-78c9-45b9-b6df-49401e496765.png)
 
